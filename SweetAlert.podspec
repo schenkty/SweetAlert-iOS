@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SweetAlert"
-  s.version      = "0.1.0"
+  s.version      = "0.0.1"
   s.summary      = "Thin wrapper around NSURLSession in Swift. Simplifies HTTP requests."
   s.homepage     = "https://github.com/codestergit/SweetAlert-iOS"
   s.license      = 'MIT'
